@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.println("Jetzt gehts los");
+        System.out.println("Eine voll tolles Feature!");
         int count =0;
         while (true) {
             Thread.sleep(2*1000);
