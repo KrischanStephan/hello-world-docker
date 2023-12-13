@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Jetzt gehts los");
         System.out.println("Eine voll tolles Feature!");
+        System.out.println("Noch ein voll tolles Feature!");
         int count =0;
         while (true) {
             Thread.sleep(2*1000);
